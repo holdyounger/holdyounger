@@ -15,5 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="left" style="border-radius: 50% !important;" alt src="https://avatars.githubusercontent.com/u/88082435?s=400&v=4" width="60" width="60"> [holdyounger.github.io](holdyounger.github.io)
 
-![holdyounger's GitHub stats](https://github-readme-stats.vercel.app/api?username=holdyounger)
+![](https://img.shields.io/badge/C++-14-red) ![](https://img.shields.io/badge/Qt-5.9.9-%237fb80e) ![](https://img.shields.io/badge/Go-1.20-%232a5caa) ![](https://img.shields.io/badge/OS-Windows-%23426ab3) ![](https://img.shields.io/badge/OS-Linux-%23f58220)
+
+![holdyounger's GitHub stats](https://github-readme-stats.vercel.app/api?username=holdyounger&show_icons=true&theme=radical)
+
+---
+
+# 快速入口：
+[毕生所学](https://github.com/holdyounger/ScopeBlog)
+
+## Qt项目
+- [holdyounger/Qt\_TopShowMsg: Qt 窗口顶部弹出消息提示（仿移动端顶部消息提示）](https://github.com/holdyounger/Qt_TopShowMsg)
+- [holdyounger/Qt-ImageRecognition: Api图片识别](https://github.com/holdyounger/Qt-ImageRecognition)
+- [holdyounger/Qt\_Gobang: Qt 五子棋小程序](https://github.com/holdyounger/Qt_Gobang)
+- [holdyounger/Qt-DesktopClock: Qt 桌面时钟，含api调用的每日一言功能](https://github.com/holdyounger/Qt-DesktopClock)
