@@ -17,7 +17,9 @@
     "email": "holdyounger@163.com",
     "mobile": "17790017583",
     "github": "https://github.com/holdyounger",
-    "workExpYear": "2"
+    
+    "zhihu": "https://www.zhihu.com/people/visiky",
+    "workExpYear": ""
   },
   "educationList": [
     {
@@ -62,7 +64,7 @@
         "2017.05"
       ],
       "work_desc": "参与项目主要为两部分，主要负责主机卫士功能的开发和维护，另外也投入到了公司新产品（防勒索软件）的研发。两款产品均是做Windows的开发。\r\n 1. 主机卫士，重构原有的两个业务（服务层：系统检测和系统加固方向），同时开发和维护两个新增模块。其次为修改现网问题，对现场出现的问题以及测试反馈的bug进行修改。2. 公司自研新产品防勒索软件，主要负责一整个模块（应用保护）的开发（服务层、界面、数据库、日志等）。涉及前端到后端的数据交互以及数据库操作。"
-    }
+    },
     
     {
       "company_name": "西安中科天塔科技股份有限公司",
