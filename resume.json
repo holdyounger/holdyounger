@@ -1,117 +1,152 @@
 {
   "titleNameMap": {
-    "educationList": "教育背景",
-    "workExpList": "工作经历",
-    "projectList": "项目经验",
-    "skillList": "个人技能",
-    "awardList": "更多信息",
-    "workList": "个人作品",
-    "aboutme": "个人评价"
+      "educationList": "教育背景",
+      "workExpList": "工作经历",
+      "projectList": "项目经验",
+      "skillList": "个人技能",
+      "awardList": "更多信息",
+      "workList": "个人作品",
+      "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/88082435?s=400&v=4",
-    "hidden": false
+      "src": "https://avatars.githubusercontent.com/u/88082435?s=400&v=4",
+      "hidden": false
   },
   "profile": {
-    "name": "师明明",
-    "email": "holdyounger@163.com",
-    "mobile": "17790017583",
-    "github": "https://github.com/holdyounger",
-    "CSDN": "https://blog.csdn.net/Fuel_Ming",
-    "博客园": "https://www.cnblogs.com/fole-del",
-    "workExpYear": ""
+      "name": "师明明",
+      "email": "holdyounger@163.com",
+      "mobile": "17790017583",
+      "github": "https://github.com/holdyounger",
+      "CSDN": "https://blog.csdn.net/Fuel_Ming",
+      "博客园": "https://www.cnblogs.com/fole-del",
+      "workExpYear": " C/C++, Qt, Go",
+      "positionTitle": "终端安全工程师",
+      "workPlace": "北京"
   },
   "educationList": [
-    {
-      "edu_time": [
-        "2017.09.01",
-        "2021.06.30"
-      ],
-      "school": "长春理工大学",
-      "major": "信息管理与信息系统",
-      "academic_degree": "本科"
-    }
+      {
+          "edu_time": [
+              "2017.09.01",
+              "2021.06.30"
+          ],
+          "school": "长春理工大学",
+          "major": "信息管理与信息系统",
+          "academic_degree": "本科"
+      }
   ],
   "awardList": [
-    {
-      "award_info": "英语 CET4",
-      "award_time": "2020"
-    },
-    {
-      "award_info": "三创赛省级三等奖",
-      "award_time": "2018.09"
-    },
-    {
-      "award_info": "吉林省电子商务大赛优秀奖",
-      "award_time": "2020.10"
-    }
+      {
+          "award_info": "英语 CET4",
+          "award_time": "2020"
+      },
+      {
+          "award_info": "三创赛省级三等奖",
+          "award_time": "2018.09"
+      },
+      {
+          "award_info": "吉林省电子商务大赛优秀奖",
+          "award_time": "2020.10"
+      },
+      {
+          "award_time": "2022.06",
+          "award_info": "RTE 2022编程挑战赛三等奖"
+      }
   ],
   "workExpList": [
-    {
-      "company_name": "北京奇安信科技有限公司",
-      "department_name": "终端安全工程师",
-      "work_time": [
-        "2022.04",
-        "2023(至今)"
-      ],
-      "work_desc": "负责零信任客户端和底层逻辑功能的开发和维护（ui 跨平台），涉及的组件包括 libevent，osquery，Windows 服务，Windows 网络驱动等。同时维护零信任和其它产品的联动交互模块。"
-    },
-    {
-      "company_name": "北京威努特技术有限公司",
-      "department_name": "c++软件开发",
-      "work_time": [
-        "2017.03",
-        "2017.05"
-      ],
-      "work_desc": "参与项目主要为两部分，主要负责主机卫士功能的开发和维护，另外也投入到了公司新产品（防勒索软件）的研发。两款产品均是做Windows的开发。\r\n 1. 主机卫士，重构原有的两个业务（服务层：系统检测和系统加固方向），同时开发和维护两个新增模块。其次为修改现网问题，对现场出现的问题以及测试反馈的bug进行修改。2. 公司自研新产品防勒索软件，主要负责一整个模块（应用保护）的开发（服务层、界面、数据库、日志等）。涉及前端到后端的数据交互以及数据库操作。"
-    },    
-    {
-      "company_name": "西安中科天塔科技股份有限公司",
-      "department_name": "研发工程师实习生",
-      "work_time": [
-        "2018.06",
-        null
-      ],
-      "work_desc": "1. 负责qt项目bug修改，完善项目文档（测试并编写项目文档、完善项目相关配置等）\r\n2. 根据航天相关业务需求，实现卫星轨道变轨计算和卫星预警功能。\n3. 编写qt自定义组件（重写QMessageBox、QTableWidget、QListWidget控件）"
-    }
+      {
+          "company_name": "北京奇安信科技有限公司",
+          "department_name": "终端安全工程师",
+          "work_time": [
+              "2022.04",
+              "2023(至今)"
+          ],
+          "work_desc": "负责零信任客户端和底层逻辑功能的开发和维护（ui 跨平台），涉及的组件包括 libevent，osquery，Windows 服务，Windows 网络驱动等。同时维护零信任和其它产品的联动交互模块。"
+      },
+      {
+          "company_name": "北京威努特技术有限公司",
+          "department_name": "c++软件开发",
+          "work_time": [
+              "2017.03",
+              "2017.05"
+          ],
+          "work_desc": "参与项目主要为两部分，主要负责主机卫士功能的开发和维护，另外也投入到了公司新产品（防勒索软件）的研发。两款产品均是做Windows的开发。\r\n 1. 主机卫士，重构原有的两个业务（服务层：系统检测和系统加固方向），同时开发和维护两个新增模块。其次为修改现网问题，对现场出现的问题以及测试反馈的bug进行修改。2. 公司自研新产品防勒索软件，主要负责一整个模块（应用保护）的开发（服务层、界面、数据库、日志等）。涉及前端到后端的数据交互以及数据库操作。"
+      },
+      {
+          "company_name": "西安中科天塔科技股份有限公司",
+          "department_name": "研发工程师实习生",
+          "work_time": [
+              "2018.06",
+              null
+          ],
+          "work_desc": "1. 负责qt项目bug修改，完善项目文档（测试并编写项目文档、完善项目相关配置等）\r\n2. 根据航天相关业务需求，实现卫星轨道变轨计算和卫星预警功能。\n3. 编写qt自定义组件（重写QMessageBox、QTableWidget、QListWidget控件）"
+      }
   ],
-  "skillList": [],
+  "skillList": [
+      {
+          "skill_name": "Windows",
+          "skill_level": 60,
+          "skill_desc": "对Windows系统比较了解，工作开发以Windows为主，涉及API、Hook、虚拟网卡等部分",
+          "dataIndex": 0
+      },
+      {
+          "skill_name": "Qt",
+          "skill_level": 20,
+          "skill_desc": "Qt 5.9.9 版本，写过一些自定义组件， Quick和 QWidget使用较多",
+          "dataIndex": 1
+      },
+      {
+          "skill_name": "CPP",
+          "skill_level": 40,
+          "skill_desc": "熟练掌握面向对象、STL，对设计模式有一定了解"
+      },
+      {
+          "skill_name": "Linux",
+          "skill_level": 40,
+          "skill_desc": "使用Linux搭建过一些服务使用，对Shell、Linux命令等有较多了解和使用"
+      }
+  ],
   "projectList": [
-    {
-      "project_name": "大学生创新创业大赛（国家级）",
-      "project_role": "开发者（独立完成）",
-      "project_time": "2019.05 - 2020.06",
-      "project_desc": "项目内容为基于Fp_stream算法实现流数据的挖掘与可视化平台。 ",
-      "project_content": "作为组长，完成算法设计与完善，同时负责平台设计、UI设计、数据处理、以及数据可视化部分。"
-    },
-    {
-      "project_name": "“创新、创意、创业”大赛",
-      "project_role": "负责人",
-      "project_time": "2018.01 - 2018.06",
-      "project_desc": "项目为《在微观数据中探索动态关联》，主要针对中小型店铺，为其提供数据方面的一系列服务，通过数据分析，数据可视化进而制定一套根据其店铺规模的商品摆放方案。为校周边50多家店铺进行了销售数据分析服务。 ",
-      "project_content": "在项目中主要负责项目规划、信息整合、数据可视化部分。通过对数据分析结果的抽取与转换，利用Echarts实现可视化部分。"
-    },
-    {
-      "project_name": "“互联网+”创新创业大赛",
-      "project_role": "开发者",
-      "project_time": "2020.01 - 2020.04",
-      "project_desc": "项目为“校园速递”小程序，项目内容为实现基于微信小程序的综合性校园服务平台。",
-      "project_content": "负责小程序页面的编写以及云服务器的维护，编写了小程序的开发文档，同时作为主要人员编写小程序设计方案与运营方案。此次参赛对UI设计以及服务器的运营有了进一步了解。"
-    },
-    {
-      "project_name": "吉林省电子商务案例大赛",
-      "project_role": "小组长",
-      "project_time": "2018.10 - 2020.11",
-      "project_desc": "项目为针对吉林省阿凡提科技有限公司的企业经营改革方案，基于其现有的业务与组织设计制定了配套的信息系统。",
-      "project_content": "在300多支队伍中获得优秀奖。参与整个系统设计，从前提调查、需求分析，到根据业务进行模块调整，为大赛组提交了一份合格的信息系统设计报告。"
-    }
+      {
+          "project_name": "大学生创新创业大赛（国家级）",
+          "project_role": "开发者（独立完成）",
+          "project_time": "2019.05 - 2020.06",
+          "project_desc": "项目内容为基于Fp_stream算法实现流数据的挖掘与可视化平台。 ",
+          "project_content": "作为组长，完成算法设计与完善，同时负责平台设计、UI设计、数据处理、以及数据可视化部分。"
+      },
+      {
+          "project_name": "“创新、创意、创业”大赛",
+          "project_role": "负责人",
+          "project_time": "2018.01 - 2018.06",
+          "project_desc": "项目为《在微观数据中探索动态关联》，主要针对中小型店铺，为其提供数据方面的一系列服务，通过数据分析，数据可视化进而制定一套根据其店铺规模的商品摆放方案。为校周边50多家店铺进行了销售数据分析服务。 ",
+          "project_content": "在项目中主要负责项目规划、信息整合、数据可视化部分。通过对数据分析结果的抽取与转换，利用Echarts实现可视化部分。"
+      },
+      {
+          "project_name": "“互联网+”创新创业大赛",
+          "project_role": "开发者",
+          "project_time": "2020.01 - 2020.04",
+          "project_desc": "项目为“校园速递”小程序，项目内容为实现基于微信小程序的综合性校园服务平台。",
+          "project_content": "负责小程序页面的编写以及云服务器的维护，编写了小程序的开发文档，同时作为主要人员编写小程序设计方案与运营方案。此次参赛对UI设计以及服务器的运营有了进一步了解。"
+      },
+      {
+          "project_name": "吉林省电子商务案例大赛",
+          "project_role": "小组长",
+          "project_time": "2018.10 - 2020.11",
+          "project_desc": "项目为针对吉林省阿凡提科技有限公司的企业经营改革方案，基于其现有的业务与组织设计制定了配套的信息系统。",
+          "project_content": "在300多支队伍中获得优秀奖。参与整个系统设计，从前提调查、需求分析，到根据业务进行模块调整，为大赛组提交了一份合格的信息系统设计报告。"
+      }
   ],
-  "workList": [],
+  "workList": [
+      {
+          "work_name": "Qt 桌面时钟",
+          "work_desc": "Qt开发的一款桌面时钟软件，含每日一言功能，可自定义样式",
+          "visit_link": "https://github.com/holdyounger/Qt-DesktopClock"
+      }
+  ],
   "aboutme": {
-    "aboutme_desc": "🌱 - 在校获得两次三等奖学金、两次单项奖学金。多次获得“校优秀志愿者”称号，完成一个国家级大创项目。\n- 班长、网络媒体部副部长\n- 有较多寒暑假兼职、实习经历，多次参加组织过学校宣传活动，熟练ps、pr软件\n- 具有团队协作精神，责任意识强，能够承受工作压力，有较高执行力"
+      "aboutme_desc": "🌱 在校获得两次三等奖学金、两次单项奖学金。多次获得“校优秀志愿者”称号，完成一个国家级大创项目。\n🌱 班长、网络媒体部副部长\n🌱 有较多寒暑假兼职、实习经历，多次参加组织过学校宣传活动，熟练ps、pr软件\n🌱 具有团队协作精神，责任意识强，能够承受工作压力，有较高执行力"
   },
   "theme": {
-    "color": "#2f5785",
-    "tagColor": "#8bc34a"
+      "color": "#2f5785",
+      "tagColor": "#8bc34a"
   }
 }
