@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=学而不思则罔，思而不学则殆!&center=true&size=27"> </a> </h1>
+
 <img align="left" style="border-radius: 50% !important;" alt src="https://avatars.githubusercontent.com/u/88082435?s=400&v=4" width="60" width="60"> [holdyounger.github.io](holdyounger.github.io)
 
 ![](https://img.shields.io/badge/C++-14-red) ![](https://img.shields.io/badge/Qt-5.9.9-%237fb80e) ![](https://img.shields.io/badge/Go-1.20-%232a5caa) ![](https://img.shields.io/badge/OS-Windows-%23426ab3) ![](https://img.shields.io/badge/OS-Linux-%23f58220)
