@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ![holdyounger's GitHub stats](https://github-readme-stats.vercel.app/api?username=holdyounger&show_icons=true&theme=radical)
 
+![Metrics](github-metrics.svg)
+
 ---
 
 # 快速入口：
@@ -31,5 +33,3 @@ Here are some ideas to get you started:
 - [holdyounger/Qt-ImageRecognition: Api图片识别](https://github.com/holdyounger/Qt-ImageRecognition)
 - [holdyounger/Qt\_Gobang: Qt 五子棋小程序](https://github.com/holdyounger/Qt_Gobang)
 - [holdyounger/Qt-DesktopClock: Qt 桌面时钟，含api调用的每日一言功能](https://github.com/holdyounger/Qt-DesktopClock)
-
-![Metrics](github-metrics.svg)
