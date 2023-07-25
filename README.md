@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <img align="left" style="border-radius: 50% !important;" alt src="https://avatars.githubusercontent.com/u/88082435?s=400&v=4" width="60" width="60"> [holdyounger.github.io](holdyounger.github.io)
 
-![](https://img.shields.io/badge/C++-14-red) ![](https://img.shields.io/badge/Qt-5.9.9-%237fb80e) ![](https://img.shields.io/badge/Go-1.20-%232a5caa) ![](https://img.shields.io/badge/OS-Windows-%23426ab3) ![](https://img.shields.io/badge/OS-Linux-%23f58220)
+![](https://img.shields.io/badge/C++-14-red) ![](https://img.shields.io/badge/Qt-5.9.9-%237fb80e) ![](https://img.shields.io/badge/Go-1.20-%232a5caa) ![](https://img.shields.io/badge/OS-Windows-%23426ab3) ![](https://img.shields.io/badge/OS-Linux-%23f58220)![Static Badge](https://img.shields.io/badge/osquery-2a5caa)![Static Badge](https://img.shields.io/badge/libevent-5f3c23)
 
-![holdyounger's GitHub stats](https://github-readme-stats.vercel.app/api?username=holdyounger&show_icons=true&theme=radical)![Static Badge](https://img.shields.io/badge/osquery-2a5caa)![Static Badge](https://img.shields.io/badge/libevent-5f3c23)
+![holdyounger's GitHub stats](https://github-readme-stats.vercel.app/api?username=holdyounger&show_icons=true&theme=radical)
 
 ![Metrics](github-metrics.svg)
 
