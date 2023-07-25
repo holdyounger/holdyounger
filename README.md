@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/C++-14-red) ![](https://img.shields.io/badge/Qt-5.9.9-%237fb80e) ![](https://img.shields.io/badge/Go-1.20-%232a5caa) ![](https://img.shields.io/badge/OS-Windows-%23426ab3) ![](https://img.shields.io/badge/OS-Linux-%23f58220)
 
-![holdyounger's GitHub stats](https://github-readme-stats.vercel.app/api?username=holdyounger&show_icons=true&theme=radical)
+![holdyounger's GitHub stats](https://github-readme-stats.vercel.app/api?username=holdyounger&show_icons=true&theme=radical)![Static Badge](https://img.shields.io/badge/osquery-2a5caa)![Static Badge](https://img.shields.io/badge/libevent-5f3c23)
 
 ![Metrics](github-metrics.svg)
 
