@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 
 # 快速入口：
-[从业至今](https://github.com/holdyounger/ScopeBlog)
+
+[🧵 从业至今](https://github.com/holdyounger/ScopeBlog)
 
 ## Qt项目
 - [holdyounger/Qt\_TopShowMsg: Qt 窗口顶部弹出消息提示（仿移动端顶部消息提示）](https://github.com/holdyounger/Qt_TopShowMsg)
