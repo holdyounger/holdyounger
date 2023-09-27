@@ -34,6 +34,4 @@ Here are some ideas to get you started:
 - [holdyounger/Qt-DesktopClock: Qt 桌面时钟，含api调用的每日一言功能](https://github.com/holdyounger/Qt-DesktopClock)
 
 
-![Metrics](github-metrics.svg)
-
 ---
