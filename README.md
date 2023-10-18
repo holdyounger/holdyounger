@@ -19,13 +19,21 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/C++-14-red) ![](https://img.shields.io/badge/Qt-5.9.9-%237fb80e) ![](https://img.shields.io/badge/Go-1.20-%232a5caa) ![](https://img.shields.io/badge/OS-Windows-%23426ab3) ![](https://img.shields.io/badge/OS-Linux-%23f58220) ![](https://img.shields.io/badge/osquery-2a5caa) ![](https://img.shields.io/badge/libevent-5f3c23)
 
-![holdyounger's GitHub stats](https://github-readme-stats.vercel.app/api?username=holdyounger&show_icons=true&theme=radical)
+
+|![holdyounger's GitHub stats](https://github-readme-stats.vercel.app/api?username=holdyounger&show_icons=true&theme=radical)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=holdyounger&layout=compact&theme=swift&hide_border=true)|
+| ------------- | ------------- |
 
 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/holdyounger/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 # 快速入口：
 
-[🧵 从业至今](https://github.com/holdyounger/ScopeBlog)
+[🧵 Learn From](https://github.com/holdyounger/ScopeBlog)
 
 ## Qt项目
 - [holdyounger/Qt\_TopShowMsg: Qt 窗口顶部弹出消息提示（仿移动端顶部消息提示）](https://github.com/holdyounger/Qt_TopShowMsg)
