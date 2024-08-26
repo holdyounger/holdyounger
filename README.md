@@ -92,17 +92,21 @@ Here are some ideas to get you started:
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/holdyounger">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=holdyounger&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=holdyounger&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-|![holdyounger's GitHub stats](https://github-readme-stats.vercel.app/api?username=holdyounger&show_icons=true&theme=radical)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=holdyounger&layout=compact&theme=swift&hide_border=true)|
-| ------------- | ------------- |
-
-
-<table>
-  <tr>
+<table align="center" style="border:0;">
+  <tr style="border:0;">
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/holdyounger/count.svg" alt="" /></td>
   </tr>
 </table>
+
+
 
 # 快速入口：
 
