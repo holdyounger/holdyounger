@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" style="border-radius: 50% !important;" alt src="https://avatars.githubusercontent.com/u/88082435?s=400&v=4" width="60" width="60"> [holdyounger.github.io](holdyounger.github.io)
+<img align="left" style="border-radius: 50% !important;" alt src="https://avatars.githubusercontent.com/u/88082435?s=400&v=4" width="60" width="60"> [holdyounger.github.io](https://holdyounger.github.io)
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?font=Ma+Shan+Zheng&lines=人生是狂野，不是轨道;学而不思则罔，思而不学则殆;固执无罪，梦想无价;开心最重要;行千里路，读万卷书&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?font=Ma+Shan+Zheng&lines=人生是旷野，不是轨道;学而不思则罔，思而不学则殆;固执无罪，梦想无价;开心最重要;行千里路，读万卷书&center=true&size=27"> </a> </h1>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
