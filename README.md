@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?font=Ma+Shan+Zheng&lines=人生是旷野，不是轨道;学而不思则罔，思而不学则殆;固执无罪，梦想无价;开心最重要;行千里路，读万卷书&center=true&size=27"> </a> </h1>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/holdyounger/holdyounger.github.io/blob/fluid/images/icon/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img alt=".Net" src="https://img.shields.io/badge/.Net-%23512BD4?style=plastic&logo=.Net&logoColor=white">
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/holdyounger/holdyounger.github.io/blob/fluid/images/icon/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/holdyounger/holdyounger.github.io/blob/fluid/images/icon//IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
   &emsp;
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%23512BD4?style=plastic&logo=visual-studio&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/holdyounger/holdyounger.github.io/blob/fluid/images/icon//OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
