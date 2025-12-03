@@ -13,13 +13,15 @@
         "hidden": false
     },
     "profile": {
-        "name": "shimingming",
+        "name": "师明明",
         "email": "holdyounger@163.com",
-        "mobile": "****",
+        "mobile": "17790017583",
         "github": "https://github.com/holdyounger",
         "CSDN": "https://blog.csdn.net/Fuel_Ming",
         "博客园": "https://www.cnblogs.com/fole-del",
-        "workExpYear": ""
+        "workExpYear": " C/C++, Qt, Go",
+        "positionTitle": "终端安全工程师",
+        "workPlace": "北京"
     },
     "educationList": [
         {
@@ -44,6 +46,10 @@
         {
             "award_info": "吉林省电子商务大赛优秀奖",
             "award_time": "2020.10"
+        },
+        {
+            "award_time": "2022.06",
+            "award_info": "RTE 2022编程挑战赛三等奖"
         }
     ],
     "workExpList": [
@@ -61,7 +67,7 @@
             "department_name": "终端安全工程师",
             "work_time": [
                 "2022.04",
-                "2023.08"
+                "2023(至今)"
             ],
             "work_desc": "负责零信任客户端和底层逻辑功能的开发和维护（ui 跨平台），涉及的组件包括 libevent，osquery，Windows 服务，Windows 网络驱动等。同时维护零信任和其它产品的联动交互模块。"
         },
@@ -78,13 +84,36 @@
             "company_name": "西安中科天塔科技股份有限公司",
             "department_name": "研发工程师实习生",
             "work_time": [
-                "2021.03",
-                "2018.06"
+                "2018.06",
+                null
             ],
             "work_desc": "1. 负责qt项目bug修改，完善项目文档（测试并编写项目文档、完善项目相关配置等）\r\n2. 根据航天相关业务需求，实现卫星轨道变轨计算和卫星预警功能。\n3. 编写qt自定义组件（重写QMessageBox、QTableWidget、QListWidget控件）"
         }
     ],
-    "skillList": [],
+    "skillList": [
+        {
+            "skill_name": "Windows",
+            "skill_level": 60,
+            "skill_desc": "对Windows系统比较了解，工作开发以Windows为主，涉及API、Hook、虚拟网卡等部分",
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "Qt",
+            "skill_level": 20,
+            "skill_desc": "Qt 5.9.9 版本，写过一些自定义组件， Quick和 QWidget使用较多",
+            "dataIndex": 1
+        },
+        {
+            "skill_name": "CPP",
+            "skill_level": 40,
+            "skill_desc": "熟练掌握面向对象、STL，对设计模式有一定了解"
+        },
+        {
+            "skill_name": "Linux",
+            "skill_level": 40,
+            "skill_desc": "使用Linux搭建过一些服务使用，对Shell、Linux命令等有较多了解和使用"
+        }
+    ],
     "projectList": [
         {
             "project_name": "大学生创新创业大赛（国家级）",
@@ -115,9 +144,15 @@
             "project_content": "在300多支队伍中获得优秀奖。参与整个系统设计，从前提调查、需求分析，到根据业务进行模块调整，为大赛组提交了一份合格的信息系统设计报告。"
         }
     ],
-    "workList": [],
+    "workList": [
+        {
+            "work_name": "Qt 桌面时钟",
+            "work_desc": "Qt开发的一款桌面时钟软件，含每日一言功能，可自定义样式",
+            "visit_link": "https://github.com/holdyounger/Qt-DesktopClock"
+        }
+    ],
     "aboutme": {
-        "aboutme_desc": "🌱 - 在校获得两次三等奖学金、两次单项奖学金。多次获得“校优秀志愿者”称号，完成一个国家级大创项目。\n- 班长、网络媒体部副部长\n- 有较多寒暑假兼职、实习经历，多次参加组织过学校宣传活动，熟练ps、pr软件\n- 具有团队协作精神，责任意识强，能够承受工作压力，有较高执行力"
+        "aboutme_desc": "🌱 在校获得两次三等奖学金、两次单项奖学金。多次获得“校优秀志愿者”称号，完成一个国家级大创项目。\n🌱 班长、网络媒体部副部长\n🌱 有较多寒暑假兼职、实习经历，多次参加组织过学校宣传活动，熟练ps、pr软件\n🌱 具有团队协作精神，责任意识强，能够承受工作压力，有较高执行力"
     },
     "theme": {
         "color": "#2f5785",
