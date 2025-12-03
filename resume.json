@@ -48,11 +48,20 @@
   ],
   "workExpList": [
     {
+      "company_name": "三六零数字安全集团",
+      "department_name": "安全开发",
+      "work_time": [
+        "2023.09",
+        null
+      ],
+      "work_desc": "逆向分析、RASP、.Net、弱口令检测、CWPP"
+    },
+    {
       "company_name": "北京奇安信科技有限公司",
       "department_name": "终端安全工程师",
       "work_time": [
         "2022.04",
-        "2023(至今)"
+        "2023.08"
       ],
       "work_desc": "负责零信任客户端和底层逻辑功能的开发和维护（ui 跨平台），涉及的组件包括 libevent，osquery，Windows 服务，Windows 网络驱动等。同时维护零信任和其它产品的联动交互模块。"
     },
@@ -70,8 +79,8 @@
       "company_name": "西安中科天塔科技股份有限公司",
       "department_name": "研发工程师实习生",
       "work_time": [
-        "2018.06",
-        null
+        "2021.03",
+        "2018.06"
       ],
       "work_desc": "1. 负责qt项目bug修改，完善项目文档（测试并编写项目文档、完善项目相关配置等）\r\n2. 根据航天相关业务需求，实现卫星轨道变轨计算和卫星预警功能。\n3. 编写qt自定义组件（重写QMessageBox、QTableWidget、QListWidget控件）"
     }
