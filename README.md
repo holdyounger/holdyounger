@@ -118,4 +118,7 @@ Here are some ideas to get you started:
 - [holdyounger/Qt\_Gobang: Qt 五子棋小程序](https://github.com/holdyounger/Qt_Gobang)
 - [holdyounger/Qt-DesktopClock: Qt 桌面时钟，含api调用的每日一言功能](https://github.com/holdyounger/Qt-DesktopClock)
 
+## 加解密
+- [holdyounger/WinCrypto: Windows crypto collections](https://github.com/holdyounger/WinCrypto)
+
 ---
