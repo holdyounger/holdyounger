@@ -1,124 +1,115 @@
-<!--
-**holdyounger/holdyounger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<img align="left" style="border-radius: 50% !important;" alt src="https://avatars.githubusercontent.com/u/88082435?s=400&v=4" width="60" width="60"> [holdyounger.github.io](https://holdyounger.github.io)
-
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?font=Ma+Shan+Zheng&lines=人生是旷野，不是轨道;学而不思则罔，思而不学则殆;固执无罪，梦想无价;开心最重要;行千里路，读万卷书&center=true&size=27"> </a> </h1>
-
-### <picture> <img src = "https://github.com/holdyounger/holdyounger.github.io/blob/fluid/images/icon/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  &emsp; 
-     <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-%23426ab3.svg?style=plastic&logoColor=black">
-  &emsp;
-     <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-%23f58220.svg?style=plastic&logoColor=black">
-  &emsp;
-    <img alt="Go" src="https://img.shields.io/badge/Go-%232a5caa.svg?style=plastic&logo=Go&logoColor=white">
-  &emsp;
-    <img alt="osquery" src="https://img.shields.io/badge/osquery-%232a5caa.svg?style=plastic&logoColor=white">
-  &emsp;
-    <img alt="libevent" src="https://img.shields.io/badge/libevent-%235f3c23.svg?style=plastic&logoColor=white">
-  &emsp;
-   <img alt="Qt" src="https://img.shields.io/badge/Qt5-%237fb80e?style=plastic&logo=Qt&logoColor=white">
-  &emsp;
-  <img alt=".Net" src="https://img.shields.io/badge/.Net-%23512BD4?style=plastic&logo=.Net&logoColor=white">
-</p>
-
- ### <picture> <img src = "https://github.com/holdyounger/holdyounger.github.io/blob/fluid/images/icon/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/openssl-%235586A4.svg?style=plastic&logo=openssl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/.Net-%23092E20.svg?&style=plastic&logo=.Net&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-</p>
-
- ### <picture> <img src = "https://github.com/holdyounger/holdyounger.github.io/blob/fluid/images/icon//IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%23512BD4?style=plastic&logo=visual-studio&logoColor=white" /></a>
-</p>
-
- ### <picture> <img src = "https://github.com/holdyounger/holdyounger.github.io/blob/fluid/images/icon//OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
+<!-- Banner：头像 + 名字 + 圆形裁剪 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=HoldYounger&fontSize=42&fontColor=ffffff&animation=fadeIn&avatar=https://avatars.githubusercontent.com/u/88082435?s=400&v=4&avatarBorderColor=4a90e2&avatarBorderWidth=3&avatarRadius=100"/>
+</div>
 
 <p align="center">
-<a href="https://github.com/holdyounger">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=holdyounger&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=holdyounger&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img
+    src="https://avatars.githubusercontent.com/u/88082435?s=400&v=4"
+    width="124"
+    style="
+      border-radius: 50%;
+      padding: 3px;
+      background: linear-gradient(135deg, #4a90e2, #8e44ec);
+      box-shadow: 0 0 14px rgba(74, 144, 226, 0.7);
+      background-color: #0d1117;
+    "
+  />
+</p>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://holdyounger.github.io">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=人生是旷野，不是轨道;学而不思则罔，思而不学则殆;固执无罪，梦想无价;开心最重要;行千里路，读万卷书"/>
+  </a>
 </p>
 
-<table align="center" style="border:0;">
-  <tr style="border:0;">
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/holdyounger/count.svg" alt="" /></td>
-  </tr>
-</table>
-
-
-
-# 快速入口：
-
-[🧵 Learn From](https://github.com/holdyounger/ScopeBlog)
-
-## Qt项目
-- [holdyounger/Qt\_TopShowMsg: Qt 窗口顶部弹出消息提示（仿移动端顶部消息提示）](https://github.com/holdyounger/Qt_TopShowMsg)
-- [holdyounger/Qt-ImageRecognition: Api图片识别](https://github.com/holdyounger/Qt-ImageRecognition)
-- [holdyounger/Qt\_Gobang: Qt 五子棋小程序](https://github.com/holdyounger/Qt_Gobang)
-- [holdyounger/Qt-DesktopClock: Qt 桌面时钟，含api调用的每日一言功能](https://github.com/holdyounger/Qt-DesktopClock)
-
-## 加解密
-- [holdyounger/WinCrypto: Windows crypto collections](https://github.com/holdyounger/WinCrypto)
+<!-- Links -->
+<p align="center">
+  <a href="https://holdyounger.github.io"><img src="https://img.shields.io/badge/🌐%20个人主页-holdyounger.github.io-4285F4?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://github.com/holdyounger"><img src="https://img.shields.io/badge/GitHub-holdyounger-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
+
+## 🧰 技术栈
+
+<p align="center">
+  <img src="https://github.com/holdyounger/holdyounger.github.io/blob/fluid/images/icon/Programming_Languages.gif?raw=true" width="35" style="vertical-align: middle;"/> <b>编程语言</b><br/><br/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-07405E?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/holdyounger/holdyounger.github.io/blob/fluid/images/icon/Software_Tools.gif?raw=true" width="35" style="vertical-align: middle;"/> <b>工具与框架</b><br/><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/libevent-5f3c23?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wails-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/holdyounger/holdyounger.github.io/blob/fluid/images/icon/IDEs.gif?raw=true" width="35" style="vertical-align: middle;"/> <b>IDE</b><br/><br/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/holdyounger/holdyounger.github.io/blob/fluid/images/icon/OS.gif?raw=true" width="35" style="vertical-align: middle;"/> <b>操作系统</b><br/><br/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub 数据
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=holdyounger&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=holdyounger&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</p>
+
+---
+
+## 🚀 精选项目
+
+### 🖼️ Qt 桌面开发
+- [Qt_TopShowMsg](https://github.com/holdyounger/Qt_TopShowMsg)
+- [Qt-ImageRecognition](https://github.com/holdyounger/Qt-ImageRecognition)
+- [Qt_Gobang](https://github.com/holdyounger/Qt_Gobang)
+- [Qt-DesktopClock](https://github.com/holdyounger/Qt-DesktopClock)
+
+### 🪟 Windows 系统 / 底层 / 安全
+- [Windows-API-Usage](https://github.com/holdyounger/Windows-API-Usage)
+- [WinCrypto](https://github.com/holdyounger/WinCrypto)
+- [RpcMonitor](https://github.com/holdyounger/RpcMonitor)
+- [SimpleBginfo](https://github.com/holdyounger/SimpleBginfo)
+- [VerifyPEResources](https://github.com/holdyounger/VerifyPEResources)
+- [SHA1](https://github.com/holdyounger/SHA1)
+- [Windows-bat-Collection](https://github.com/holdyounger/Windows-bat-Collection)
+
+### 🌐 跨平台 / Go / 工具链
+- [go-vue-gitIssueList](https://github.com/holdyounger/go-vue-gitIssueList)
+- [ScopeBlog](https://github.com/holdyounger/ScopeBlog)
+- [POCC](https://github.com/holdyounger/POCC)
+- [resume](https://github.com/holdyounger/resume)
+
+---
+
+## 📈 访问统计
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=holdyounger&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+<!-- Footer：文字内嵌 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f6feb,100:0d1117&height=80&section=footer&text=☕%20代码%20|%20生活%20|%20AI&fontSize=18&fontColor=ffffff&fontAlignY=50"/>
+</div>
