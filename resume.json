@@ -13,21 +13,21 @@
         "hidden": false
     },
     "profile": {
-        "name": "shimingming",
+        "name": "师明明",
         "email": "holdyounger@163.com",
         "mobile": "*",
         "github": "https://github.com/holdyounger",
         "CSDN": "https://blog.csdn.net/Fuel_Ming",
-        "博客园": "https://www.cnblogs.com/fole-del",
-        "workExpYear": " C/C++, Qt, Go",
-        "positionTitle": "终端安全工程师",
+        "博客": "https://holdyounger.github.io",
+        "workExpYear": "6年C/C++安全开发经验",
+        "positionTitle": "安全开发工程师",
         "workPlace": "北京"
     },
     "educationList": [
         {
             "edu_time": [
-                "2017.09.01",
-                "2021.06.30"
+                "2017.09",
+                "2021.06"
             ],
             "school": "长春理工大学",
             "major": "信息管理与信息系统",
@@ -36,7 +36,11 @@
     ],
     "awardList": [
         {
-            "award_info": "英语 CET4",
+            "award_info": "计算机二级（C语言）",
+            "award_time": "2020"
+        },
+        {
+            "award_info": "大学英语四级（CET-4）",
             "award_time": "2020"
         },
         {
@@ -54,94 +58,121 @@
     ],
     "workExpList": [
         {
-            "company_name": "三六零数字安全集团",
-            "department_name": "安全开发",
+            "company_name": "三六零数字安全科技集团有限公司",
+            "department_name": "高级安全开发工程师",
             "work_time": [
                 "2023.09",
                 null
             ],
-            "work_desc": "逆向分析、RASP、.Net、弱口令检测、CWPP"
+            "work_desc": "主导弱密码检测系统和RASP产品研发，覆盖多种数据库与中间件的弱口令扫描，以及PHP/.NET运行时安全防护。\n\n【弱密码检测系统】\n· 支持MySQL、PostgreSQL、SQLServer、MongoDB、Oracle、ElasticSearch、ActiveMQ、Tomcat、Nginx、Jenkins等数据库和中间件弱口令扫描，统一检测框架，各引擎独立封装\n· 实现MD5、SHA1/256/512、SCRAM-SHA-256、APR_MD5、MSCASH2、Blowfish等密码哈希算法验证引擎，采用工厂模式动态创建对应验证器\n· 基于轻量级Hook框架对数据库进程认证API进行Inline Hook，运行时无侵入截获认证数据流，实现实时弱密码检测\n· 设计多级字典检测策略（空密码→用户名相同→用户字典→内置字典），分级评分兼顾检出率与误报控制\n· 实现定时周期扫描、实时监控扫描、系统启动扫描三种检测调度模式，通过RPC进行策略下发和结果上报\n· 支持域用户弱口令检测，集成密码哈希离线碰撞检测能力\n\n【RASP产品研发】\n· 主导PHP和.NET运行时的RASP探针开发和维护，在应用层实现攻击行为的实时检测与阻断\n· 实现SQL注入、命令执行、文件操作等Web攻击行为的实时检测与阻断\n· 深入分析JNDI注入、反序列化漏洞、内存马等常见应用层攻击手法，持续增强防御规则有效性\n· 基于C/C++核心能力，结合PHP、.NET运行时机制，实现多语言环境下的统一安全防护方案"
         },
         {
-            "company_name": "北京奇安信科技有限公司",
-            "department_name": "终端安全工程师",
+            "company_name": "奇安信网神信息技术（北京）股份有限公司",
+            "department_name": "C++开发工程师",
             "work_time": [
                 "2022.04",
-                "2023(至今)"
+                "2023.08"
             ],
-            "work_desc": "负责零信任客户端和底层逻辑功能的开发和维护（ui 跨平台），涉及的组件包括 libevent，osquery，Windows 服务，Windows 网络驱动等。同时维护零信任和其它产品的联动交互模块。"
+            "work_desc": "负责零信任安全架构下的客户端底层逻辑研发。\n· 实现跨平台UI架构（Windows/macOS/Linux），保障终端身份与访问控制的安全性\n· 深度集成高性能网络库和osquery端点检测框架，构建终端安全状态实时采集与上报能力\n· 独立开发维护Windows后台服务模块，参与Windows网络驱动的开发和调试，实现网络流量过滤与安全策略控制\n· 负责零信任平台与EDR、防火墙等安全产品的联动交互模块，实现安全事件的跨产品协同处置"
         },
         {
             "company_name": "北京威努特技术有限公司",
-            "department_name": "c++软件开发",
+            "department_name": "C/C++开发工程师",
             "work_time": [
-                "2017.03",
-                "2017.05"
+                "2021.07",
+                "2022.04"
             ],
-            "work_desc": "参与项目主要为两部分，主要负责主机卫士功能的开发和维护，另外也投入到了公司新产品（防勒索软件）的研发。两款产品均是做Windows的开发。\r\n 1. 主机卫士，重构原有的两个业务（服务层：系统检测和系统加固方向），同时开发和维护两个新增模块。其次为修改现网问题，对现场出现的问题以及测试反馈的bug进行修改。2. 公司自研新产品防勒索软件，主要负责一整个模块（应用保护）的开发（服务层、界面、数据库、日志等）。涉及前端到后端的数据交互以及数据库操作。"
+            "work_desc": "【防勒索软件（自研新产品）】\n独立负责应用保护模块全链路开发，从后台服务到前端界面完整交付：\n· 服务层：Windows后台服务核心防护逻辑，进程行为监控、文件操作拦截\n· IPC通信：服务层与UI层之间的进程间通信机制\n· 界面层：Qt开发用户交互界面，策略配置、告警展示\n· 数据库：SQLite策略存储、日志记录与数据持久化\n· 日志系统：结构化日志方案，支持安全事件审计与溯源\n\n【主机卫士重构与维护】\n· 主导「系统检测」和「系统加固」两大服务层架构重构，提升代码可维护性与检测效率，新增并维护两个业务模块\n· 快速响应一线现场问题及QA反馈，修复内存泄漏、崩溃、性能退化等高优先级缺陷"
         },
         {
             "company_name": "西安中科天塔科技股份有限公司",
-            "department_name": "研发工程师实习生",
+            "department_name": "C/C++开发工程师",
             "work_time": [
-                "2018.06",
-                null
+                "2021.01",
+                "2021.05"
             ],
-            "work_desc": "1. 负责qt项目bug修改，完善项目文档（测试并编写项目文档、完善项目相关配置等）\r\n2. 根据航天相关业务需求，实现卫星轨道变轨计算和卫星预警功能。\n3. 编写qt自定义组件（重写QMessageBox、QTableWidget、QListWidget控件）"
+            "work_desc": "· 基于航天业务需求，独立实现卫星轨道变轨计算和卫星预警功能，涉及天体力学计算与实时预警逻辑\n· Qt自定义组件开发：重写QMessageBox、QTableWidget、QListWidget等控件，满足桌面应用的定制化交互需求\n· 负责Qt项目bug修改，完善项目文档（测试并编写项目文档、完善项目相关配置等）"
         }
     ],
     "skillList": [
         {
-            "skill_name": "Windows",
-            "skill_level": 60,
-            "skill_desc": "对Windows系统比较了解，工作开发以Windows为主，涉及API、Hook、虚拟网卡等部分",
+            "skill_name": "C/C++",
+            "skill_level": 85,
+            "skill_desc": "精通C/C++，熟练掌握面向对象、STL，对设计模式有深入理解，6年安全开发主力语言",
             "dataIndex": 0
         },
         {
-            "skill_name": "Qt",
-            "skill_level": 20,
-            "skill_desc": "Qt 5.9.9 版本，写过一些自定义组件， Quick和 QWidget使用较多",
+            "skill_name": "Windows安全开发",
+            "skill_level": 80,
+            "skill_desc": "服务开发、网络驱动、WinDBG调试、PE结构分析、DLL注入/Hook、IPC通信、API Hook",
             "dataIndex": 1
         },
         {
-            "skill_name": "CPP",
-            "skill_level": 40,
-            "skill_desc": "熟练掌握面向对象、STL，对设计模式有一定了解"
+            "skill_name": "安全领域",
+            "skill_level": 80,
+            "skill_desc": "弱密码检测、RASP探针开发（PHP/.NET）、零信任架构、主机安全防护、攻防对抗",
+            "dataIndex": 2
+        },
+        {
+            "skill_name": "Go",
+            "skill_level": 60,
+            "skill_desc": "熟练使用Go语言，实现过轻量级并发服务器框架（连接封装、多路由分发、TLV协议、工作池/协程池）",
+            "dataIndex": 3
+        },
+        {
+            "skill_name": "Qt",
+            "skill_level": 55,
+            "skill_desc": "Qt 5.9.9，写过自定义组件（QMessageBox/QTableWidget/QListWidget重写），Quick和QWidget使用较多",
+            "dataIndex": 4
+        },
+        {
+            "skill_name": "密码学/哈希",
+            "skill_level": 70,
+            "skill_desc": "MD5、SHA1/256/512、SCRAM-SHA-256、APR_MD5、MSCASH2、Blowfish、PBKDF2等密码哈希算法验证",
+            "dataIndex": 5
         },
         {
             "skill_name": "Linux",
             "skill_level": 40,
-            "skill_desc": "使用Linux搭建过一些服务使用，对Shell、Linux命令等有较多了解和使用"
+            "skill_desc": "使用Linux搭建过服务，对Shell、Linux命令等有较多了解和使用",
+            "dataIndex": 6
         }
     ],
     "projectList": [
         {
-            "project_name": "大学生创新创业大赛（国家级）",
-            "project_role": "开发者（独立完成）",
-            "project_time": "2019.05 - 2020.06",
-            "project_desc": "项目内容为基于Fp_stream算法实现流数据的挖掘与可视化平台。 ",
-            "project_content": "作为组长，完成算法设计与完善，同时负责平台设计、UI设计、数据处理、以及数据可视化部分。"
+            "project_name": "Go语言并发服务器框架",
+            "project_role": "独立开发者",
+            "project_time": "2022.01 - 2022.02",
+            "project_desc": "基于开源框架学习与实践，用Go实现的轻量级并发服务器框架。",
+            "project_content": "实现连接封装、多路由分发、消息封装（TLV协议）、工作池/协程池管理、读写分离架构。"
         },
         {
-            "project_name": "“创新、创意、创业”大赛",
+            "project_name": "大学生创新创业大赛（国家级）",
+            "project_role": "组长 / 独立完成",
+            "project_time": "2019.05 - 2020.06",
+            "project_desc": "基于Fp_stream算法实现流数据的挖掘与可视化平台。",
+            "project_content": "完成算法设计与完善，同时负责平台设计、UI设计、数据处理、以及数据可视化部分。"
+        },
+        {
+            "project_name": "「创新、创意、创业」大赛",
             "project_role": "负责人",
             "project_time": "2018.01 - 2018.06",
-            "project_desc": "项目为《在微观数据中探索动态关联》，主要针对中小型店铺，为其提供数据方面的一系列服务，通过数据分析，数据可视化进而制定一套根据其店铺规模的商品摆放方案。为校周边50多家店铺进行了销售数据分析服务。 ",
-            "project_content": "在项目中主要负责项目规划、信息整合、数据可视化部分。通过对数据分析结果的抽取与转换，利用Echarts实现可视化部分。"
+            "project_desc": "《在微观数据中探索动态关联》，针对中小型店铺提供数据分析服务，为校周边50多家店铺进行销售数据分析。",
+            "project_content": "负责项目规划、信息整合、数据可视化部分。通过数据分析结果的抽取与转换，利用Echarts实现可视化部分。"
         },
         {
-            "project_name": "“互联网+”创新创业大赛",
+            "project_name": "「互联网+」创新创业大赛",
             "project_role": "开发者",
             "project_time": "2020.01 - 2020.04",
-            "project_desc": "项目为“校园速递”小程序，项目内容为实现基于微信小程序的综合性校园服务平台。",
-            "project_content": "负责小程序页面的编写以及云服务器的维护，编写了小程序的开发文档，同时作为主要人员编写小程序设计方案与运营方案。此次参赛对UI设计以及服务器的运营有了进一步了解。"
+            "project_desc": "「校园速递」小程序，基于微信小程序的综合性校园服务平台。",
+            "project_content": "负责小程序页面编写及云服务器维护，编写开发文档与设计方案。"
         },
         {
             "project_name": "吉林省电子商务案例大赛",
             "project_role": "小组长",
-            "project_time": "2018.10 - 2020.11",
-            "project_desc": "项目为针对吉林省阿凡提科技有限公司的企业经营改革方案，基于其现有的业务与组织设计制定了配套的信息系统。",
-            "project_content": "在300多支队伍中获得优秀奖。参与整个系统设计，从前提调查、需求分析，到根据业务进行模块调整，为大赛组提交了一份合格的信息系统设计报告。"
+            "project_time": "2018.10 - 2018.11",
+            "project_desc": "针对吉林省阿凡提科技有限公司的企业经营改革方案，制定配套的信息系统设计。",
+            "project_content": "在300多支队伍中获得优秀奖。参与整个系统设计，从前提调查、需求分析到模块调整。"
         }
     ],
     "workList": [
@@ -152,7 +183,7 @@
         }
     ],
     "aboutme": {
-        "aboutme_desc": "🌱 在校获得两次三等奖学金、两次单项奖学金。多次获得“校优秀志愿者”称号，完成一个国家级大创项目。\n🌱 班长、网络媒体部副部长\n🌱 有较多寒暑假兼职、实习经历，多次参加组织过学校宣传活动，熟练ps、pr软件\n🌱 具有团队协作精神，责任意识强，能够承受工作压力，有较高执行力"
+        "aboutme_desc": "🔥 6年安全开发经验，从工控安全到企业级网络安全，从终端主机防护到运行时应用自保护，从弱密码检测到零信任架构，逐步构建了「端点→网络→应用→数据」全链路安全视野\n📖 技术博客累计5万+阅读量、180+点赞，持续输出技术影响力（CSDN: blog.csdn.net/Fuel_Ming | 博客: fole-del.github.io）\n🌱 在校获得两次三等奖学金、两次单项奖学金，多次获得「校优秀志愿者」称号，完成国家级大创项目\n🛠️ 熟练使用 Visual Studio、WinDBG、Process Explorer、Procdump、GDB 等开发调试工具\n💡 热爱技术钻研，始终追求代码质量与安全性的平衡，致力于成为一名有深度、有广度、能打硬仗的安全架构师"
     },
     "theme": {
         "color": "#2f5785",
